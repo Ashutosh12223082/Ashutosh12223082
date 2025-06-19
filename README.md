@@ -62,19 +62,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh12223082&show_icons=true&count_private=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh12223082&layout=compact&theme=radical" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashutosh12223082&theme=darkhub&row=1&margin-w=8&margin-h=8" height="150"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh12223082&theme=redical&area=true" height="300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh12223082&theme=radical" height="200"/>
-</div>
-
----
-
-### 🐍 Snake Contribution Graph
 
 <img src="https://raw.githubusercontent.com/Ashutosh12223082/Ashutosh12223082/output/snake.svg" alt="Snake animation"/>
 
