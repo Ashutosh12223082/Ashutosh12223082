@@ -61,13 +61,3 @@
 </div>
 
 ---
-
-
-
-<img src="https://raw.githubusercontent.com/Ashutosh12223082/Ashutosh12223082/output/snake.svg" alt="Snake animation"/>
-
----
-
-### 🌈 3D Contribution Graph
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
